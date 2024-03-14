@@ -27,7 +27,7 @@
     "babel-loader": "^8.1.0",
     "css-loader": "^3.2.0",
     "file-loader": "^2.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "prettier": "^2.0.5",
     "promise-polyfill": "^8.1.3",
